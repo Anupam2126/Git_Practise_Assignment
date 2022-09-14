@@ -11,7 +11,7 @@ rev=rev*10+rem;
 a=Math.floor(a/2);
 
 }
-if(temp=rev){
+if(temp==rev){
 console.log("Yes");
 }
 else{
